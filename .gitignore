@@ -1,6 +1,7 @@
 __pycache__
 blog-env/
 .env
+.deta
 .venv
 blog-env/
 blog-venv/
