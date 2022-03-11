@@ -1,0 +1,8 @@
+__pycache__
+blog-env/
+.env
+.venv
+blog-env/
+blog-venv/
+blog-ENV/
+.DS_Store
